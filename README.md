@@ -1,6 +1,7 @@
 ### What is Internet carbon emission?
 As internet usage continues to grow, it contributes significantly to global electricity consumption and greenhouse gas (GHG) emissions. Internet data traffic currently accounts for **7% of global electricity consumption** and **3.5% of global GHG emissions**. If left unchecked, this could rise to **14% of GHG emissions by 2040**. This project explores whether real-time monitoring and personalized feedback on internet usage can influence users to reduce their digital carbon footprint.
-
+![Image](https://github.com/user-attachments/assets/783e9996-32c2-4894-b1dd-a38ba4c94784)
+![Image](https://github.com/user-attachments/assets/fbd66a57-d8c2-423e-be01-b8d9c1eb24d5)
 ---
 
 ### My Concept
@@ -11,6 +12,7 @@ A **data-driven approach to internet carbon awareness**:
 4. **Visualize**: Display real-time carbon footprint data via a web app.
 
 ---
+![Image](https://github.com/user-attachments/assets/736e1244-6e4a-45d8-93bc-5773c45901c9)
 
 ### Architecture
 - **Hardware**: 
