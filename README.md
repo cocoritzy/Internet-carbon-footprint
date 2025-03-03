@@ -43,16 +43,7 @@ A **data-driven approach to internet carbon awareness**:
 ### The Results (So Far!)
 - **Correlation**: The tool successfully classified **35 internet applications** and calculated their carbon footprint with high accuracy (**98% precision**).
 - **Behavioral Impact**: Users in the experimental group, who received personalized feedback, reduced their carbon emissions by **27%** compared to the control group.
-- **Web App**: Real-time carbon footprint data was visualized via a web app, providing users with insights into their internet usage and carbon emissions.
-
----
-
-### Files Description
-- **Wireshark/Pyshark scripts**: Collect and process network traffic data.
-- **Random Forest Classifier**: Classifies network traffic into 35 applications.
-- **Carbon Footprint Calculation Scripts**: Convert data traffic to carbon emissions.
-- **Web App (Python Dash)**: Visualizes real-time carbon footprint data and provides feedback.
-- **Ethics and Recruitment Forms**: Documentation for user consent and data collection.
+- **Web App**: Real-time carbon footprint data was visualized via a web app, providing users with insights into their internet usage and carbon emissions
 
 ---
 
