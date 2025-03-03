@@ -1,4 +1,4 @@
-### What is Internat carbon emission?
+### What is Internet carbon emission?
 As internet usage continues to grow, it contributes significantly to global electricity consumption and greenhouse gas (GHG) emissions. Internet data traffic currently accounts for **7% of global electricity consumption** and **3.5% of global GHG emissions**. If left unchecked, this could rise to **14% of GHG emissions by 2040**. This project explores whether real-time monitoring and personalized feedback on internet usage can influence users to reduce their digital carbon footprint.
 
 ---
