@@ -1,0 +1,43 @@
+                      precision    recall  f1-score   support
+
+               Adobe       0.97      0.99      0.98       161
+         AmazonVideo       0.99      1.00      1.00       125
+         Appleitunes       1.00      0.99      1.00       153
+               Azure       0.98      1.00      0.99       145
+                 BBC       0.97      0.99      0.98       158
+Background processes       0.99      0.93      0.96       146
+          BlackBoard       0.99      0.96      0.98       154
+         DailyMotion       1.00      0.99      1.00       136
+             Dropbox       0.98      0.97      0.98       160
+            Facebook       0.99      0.99      0.99       155
+              Github       0.99      0.99      0.99       143
+               Gmail       1.00      1.00      1.00       146
+          GoogleDocs       1.00      0.98      0.99       156
+         GoogleDrive       0.97      0.99      0.98       152
+       GoogleHangout       1.00      1.00      1.00       147
+           Grammarly       0.99      0.99      0.99       163
+              Icloud       0.99      0.99      0.99       160
+            Instgram       0.95      0.98      0.97       147
+            Linkedin       0.99      0.99      0.99       145
+           Messenger       0.99      0.99      0.99       172
+             NetFlix       0.99      1.00      0.99       154
+              Notion       1.00      0.99      0.99       137
+            Onedrive       0.99      1.00      1.00       150
+             Onenote       0.98      0.98      0.98       137
+           Pinterest       1.00      0.97      0.99       159
+             Spotify       1.00      1.00      1.00       147
+               Teams       0.99      0.99      0.99       151
+              TikTok       0.99      1.00      1.00       154
+             Twitter       1.00      1.00      1.00       146
+               Vimeo       0.99      1.00      1.00       149
+       Visual studio       1.00      0.99      1.00       156
+            Whatsapp       1.00      1.00      1.00       150
+           Wikipedia       1.00      1.00      1.00       152
+             YouTube       0.99      1.00      1.00       141
+                Zoom       1.00      0.97      0.99       149
+           office365       0.97      1.00      0.98       144
+
+            accuracy                           0.99      5400
+           macro avg       0.99      0.99      0.99      5400
+        weighted avg       0.99      0.99      0.99      5400
+
