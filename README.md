@@ -1,7 +1,6 @@
 ### What is Internet carbon emission?
 As internet usage continues to grow, it contributes significantly to global electricity consumption and greenhouse gas (GHG) emissions. Internet data traffic currently accounts for **7% of global electricity consumption** and **3.5% of global GHG emissions**. If left unchecked, this could rise to **14% of GHG emissions by 2040**. This project explores whether real-time monitoring and personalized feedback on internet usage can influence users to reduce their digital carbon footprint.
-![Image](https://github.com/user-attachments/assets/783e9996-32c2-4894-b1dd-a38ba4c94784)
-![Image](https://github.com/user-attachments/assets/fbd66a57-d8c2-423e-be01-b8d9c1eb24d5)
+
 ---
 
 ### My Concept
@@ -10,11 +9,10 @@ A **data-driven approach to internet carbon awareness**:
 2. **Analyze**: Use machine learning to classify internet activities and calculate their carbon footprint.
 3. **Actuate**: Provide personalized feedback and tips to users to reduce their carbon emissions.
 4. **Visualize**: Display real-time carbon footprint data via a web app.
-
----
-![Image](https://github.com/user-attachments/assets/736e1244-6e4a-45d8-93bc-5773c45901c9)
+<img src="https://github.com/user-attachments/assets/fbd66a57-d8c2-423e-be01-b8d9c1eb24d5" width="50%" />
 
 ### Architecture
+
 - **Hardware**: 
   - User computers equipped with network traffic monitoring tools and RasberryPi.
 - **APIs**:
@@ -27,6 +25,7 @@ A **data-driven approach to internet carbon awareness**:
   - **Carbon Footprint Calculation**: Converts data traffic (GB) to carbon emissions (CO₂e) using location-based carbon intensity.
 - **Web App**:
   - **Python Dash Framework**: Visualizes real-time carbon footprint data and provides personalized feedback.
+<img src="https://github.com/user-attachments/assets/f3e08c8c-3280-4fc6-825f-d80843a28acb" width="50%" />
 
 ---
 
@@ -45,13 +44,6 @@ A **data-driven approach to internet carbon awareness**:
 - **Correlation**: The tool successfully classified **35 internet applications** and calculated their carbon footprint with high accuracy (**98% precision**).
 - **Behavioral Impact**: Users in the experimental group, who received personalized feedback, reduced their carbon emissions by **27%** compared to the control group.
 - **Web App**: Real-time carbon footprint data was visualized via a web app, providing users with insights into their internet usage and carbon emissions.
-
----
-
-### Links
-- **Code & Data**: [GitHub](https://github.com/cocoritz/Master_project)
-- **Web App**: Hosted on Google Cloud Platform.
-- **Presentation**: Included in the report.
 
 ---
 
